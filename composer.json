@@ -1,5 +1,5 @@
 {
-  "name": "mcs/amazon-mws",
+  "name": "binhuang/amazon_api",
   "description": "Library to interface with Amazon MWS",
   "license": "MIT",
   "keywords": [
